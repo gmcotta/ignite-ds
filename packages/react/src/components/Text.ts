@@ -1,4 +1,4 @@
-import { fontSizes } from '@ignite-ui/tokens'
+import { fontSizes } from '@gmcotta-ignite-ds/tokens'
 import { ComponentProps, ElementType } from 'react'
 import { styled } from '../styles'
 

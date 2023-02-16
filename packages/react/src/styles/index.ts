@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@gmcotta-ignite-ds/tokens'
 
 export const {
   styled,

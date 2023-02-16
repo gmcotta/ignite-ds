@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Text, TextProps, textSizeKeys } from '@ignite-ui/react'
+import { Text, TextProps, textSizeKeys } from '@gmcotta-ignite-ds/react'
 
 export default {
   title: 'Typography/Text',

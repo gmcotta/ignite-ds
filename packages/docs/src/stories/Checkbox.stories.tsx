@@ -1,5 +1,5 @@
 import { StoryObj, Meta, DecoratorFn } from '@storybook/react'
-import { Box, Text, Checkbox, CheckboxProps } from '@ignite-ui/react'
+import { Box, Text, Checkbox, CheckboxProps } from '@gmcotta-ignite-ds/react'
 
 const decoratorDefault: DecoratorFn = (Story) => {
   return (

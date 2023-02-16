@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Heading, HeadingProps, headingSizeKeys } from '@ignite-ui/react'
+import { Heading, HeadingProps, headingSizeKeys } from '@gmcotta-ignite-ds/react'
 
 export default {
   title: 'Typography/Heading',

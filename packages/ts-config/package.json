@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/ts-config",
-  "version": "1.0.0",
+  "name": "@gmcotta-ignite-ds/ts-config",
+  "version": "1.1.0",
   "private": true,
   "license": "ISC"
 }
