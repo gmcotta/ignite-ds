@@ -1,0 +1,2 @@
+import{T as t,t as o}from"./index-2bb371b1.js";import"./index-63eeef1a.js";import"./es.object.get-own-property-descriptor-366a41fe.js";import"./index-05d07f04.js";import"./jsx-runtime-a49d27ee.js";const m={title:"Typography/Text",component:t,args:{children:"Texto de exemplo",size:"md"},argTypes:{size:{options:o,control:{type:"inline-radio"}}}},n={},p={args:{children:"Texto em negrito",as:"strong"}},T=["Primary","CustomTag"];export{p as CustomTag,n as Primary,T as __namedExportsOrder,m as default};
+//# sourceMappingURL=Text.stories-760b04ff.js.map

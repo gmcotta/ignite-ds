@@ -1,0 +1,2 @@
+import{A as t}from"./index-2bb371b1.js";import"./index-63eeef1a.js";import"./es.object.get-own-property-descriptor-366a41fe.js";import"./index-05d07f04.js";import"./jsx-runtime-a49d27ee.js";const c={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/gmcotta.png",alt:"Gustavo Matias"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,m as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-07278a56.js.map
